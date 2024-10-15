@@ -1,2 +1,2 @@
 @echo off
-powershell -ExecutionPolicy Bypass -File "%~dp0script.ps1"
+powershell -ExecutionPolicy Bypass -WindowStyle Hidden -File "%~dp0script.ps1"
